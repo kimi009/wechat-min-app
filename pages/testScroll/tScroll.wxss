@@ -1,0 +1,9 @@
+/* pages/testScroll/tScroll.wxss */
+.section{
+  display: flex;
+  justify-content: center;
+}
+.longitude{
+  display: inline-block;
+  width: 100%;
+}

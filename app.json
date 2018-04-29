@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/testScroll/tScroll",
+    "pages/labelTest/label",
+    "pages/navigate/nav"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ff0000",
+    "navigationBarTitleText": "自学微信小程序",
+    "navigationBarTextStyle": "light",
+    "backgroundColor": "#eeeeee"
+  }
+}

@@ -1,0 +1,9 @@
+<!--pages/testScroll/tScroll.wxml-->
+<view class='section'>
+  <video id="myVideo" src="{{src}}" controls></video>
+</view>
+<button bindtap='chooseVideo'>选择视频</button>
+<map id="map" scale='14' ></map>
+<button bindtap='getLocation'>获取位置</button>
+<label class='longitude'>经度：{{longitude}}</label>
+<label>纬度：{{latitude}}</label>
